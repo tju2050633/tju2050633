@@ -1,5 +1,10 @@
 
-https://img.shields.io/github/followers/tju2050633?style=social
+<p>
+<a href="https://github.com/tju2050633"><img src="https://img.shields.io/github/followers/tju2050633?style=social"/></a>
+</p>
+
+
+
 
 https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FNickWil68088380
 
@@ -14,5 +19,5 @@ https://img.shields.io/youtube/channel/views/UCihs4o-50IDjWCMt8HUZtBQ?style=soci
 
 ![](https://stats.justsong.cn/api/bilibili/?id=10453840&theme=dark)
 
-![](https://activity-graph.herokuapp.com/graph?username=tju2050633&theme=github)
+
 
