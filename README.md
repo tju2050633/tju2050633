@@ -12,9 +12,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tju2050633&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://stats.justsong.cn/api/bilibili/?id=10453840&theme=dark)
+![bilibili hyperlink](https://stats.justsong.cn/api/bilibili/?id=10453840&theme=dark)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tju2050633&theme=tokyo-night)](https://github.com/tju2050633/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tju2050633&theme=xcode)](https://github.com/tju2050633/github-readme-activity-graph)
 
 
 
