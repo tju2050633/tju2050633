@@ -14,7 +14,7 @@
 
 ![bilibili hyperlink](https://stats.justsong.cn/api/bilibili/?id=10453840&theme=dark)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tju2050633&theme=xcode)](https://github.com/tju2050633/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tju2050633&theme=tokyo-night)](https://github.com/tju2050633/github-readme-activity-graph)
 
 
 
