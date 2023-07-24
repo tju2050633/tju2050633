@@ -12,9 +12,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tju2050633&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![bilibili hyperlink](https://stats.justsong.cn/api/bilibili/?id=10453840&theme=dark)
-
-
 
 
 
